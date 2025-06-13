@@ -77,7 +77,7 @@ Eu me chamo Marcelo, tenho 19 anos, sou de Goiânia e curso Engenharia de Softwa
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarcelodev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarcelodev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=3&cache_seconds=1" 
   />
 
 </p>
