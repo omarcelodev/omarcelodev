@@ -61,8 +61,8 @@ Eu me chamo Marcelo, tenho 19 anos, sou de Goiânia e curso Engenharia de Softwa
 
  <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="Jupyter Notebooks" 
+    title="Jupyter"
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" 
@@ -87,7 +87,7 @@ Eu me chamo Marcelo, tenho 19 anos, sou de Goiânia e curso Engenharia de Softwa
       align="left" 
       alt="GitHub Stats" 
       height="175" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarcelodev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=3&cache_seconds=1" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarcelodev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5&cache_seconds=1" 
   />
 
 </p>
