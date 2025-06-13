@@ -4,6 +4,8 @@
 
 Eu me chamo Marcelo, tenho 19 anos, sou de Goiânia e curso Engenharia de Software na UniGoiás. Sou apaixonado por tecnologia, com foco em Engenharia de Dados e Inteligência Artificial. Gosto de aprender coisas novas, resolver problemas com código e explorar soluções inovadoras que transformem dados em decisões inteligentes.
 
+---
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
