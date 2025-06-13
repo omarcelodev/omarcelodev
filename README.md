@@ -2,7 +2,7 @@
 
 **`Atualmente em formação como desenvolvedor fullstack`**
 
-Me chamo Marcelo, tenho 19 anos, sou de Goiânia e curso Engenharia de Software na UniGoiás. Sou apaixonado por tecnologia, com foco em Engenharia de Dados e Inteligência Artificial. Gosto de aprender coisas novas, resolver problemas com código e explorar soluções inovadoras que transformem dados em decisões inteligentes.
+Eu me chamo Marcelo, tenho 19 anos, sou de Goiânia e curso Engenharia de Software na UniGoiás. Sou apaixonado por tecnologia, com foco em Engenharia de Dados e Inteligência Artificial. Gosto de aprender coisas novas, resolver problemas com código e explorar soluções inovadoras que transformem dados em decisões inteligentes.
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -68,14 +68,14 @@ Me chamo Marcelo, tenho 19 anos, sou de Goiânia e curso Engenharia de Software 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=omarcelodev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=omarcelodev&show_icons=true&theme=github_dark&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarcelodev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarcelodev&theme=github_dark&layout=compact&custom_title=Tecnologias&langs_count=5" 
   />
 
 </p>
