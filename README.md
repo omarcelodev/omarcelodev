@@ -80,14 +80,14 @@ Eu me chamo Marcelo, tenho 19 anos, sou de Goiânia e curso Engenharia de Softwa
     alt="GitHub Stats" 
     height="175" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=omarcelodev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=omarcelodev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=1" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="175" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarcelodev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5&cache_seconds=1" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarcelodev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6&cache_seconds=1" 
   />
 
 </p>
