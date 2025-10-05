@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Marcelo Gomes  
+# 🧑🏻‍💻 Marcelo Gomes  
 
 **`Estudante de Engenharia de Software na UniGoiás`**  
 
