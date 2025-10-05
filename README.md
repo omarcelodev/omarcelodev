@@ -1,29 +1,29 @@
 # 🧑🏻‍💻 Marcelo Gomes  
 
-**`Estudante de Engenharia de Software na UniGoiás`**  
+**`Software Engineering Student at UniGoiás`**  
 
 📍 Goiânia - GO | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelogomss) | [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:marcelogomesfilho3@gmail.com)
 
 ---
 
-## 🚀 Sobre mim  
-Sou apaixonado por **dados e inteligência artificial**, e atualmente estou construindo minha jornada como **Engenheiro de Dados em formação**.  
-Busco unir **Python, SQL e Machine Learning** para transformar dados em soluções reais e inteligentes.  
+## 🚀 About Me  
+I am passionate about **data and artificial intelligence**, and I am currently building my path as an **aspiring Data Engineer**.  
+I aim to combine **Python, SQL, and Machine Learning** to turn data into actionable and intelligent solutions.  
 
-Tenho 19 anos e aprendo de forma prática — desenvolvendo projetos, testando ideias e criando soluções que conectam **engenharia, automação e IA**.
+I am 19 years old and learn best through practice — developing projects, testing ideas, and creating solutions that connect **engineering, automation, and AI**.
 
-💡 *"Dados são o combustível. Engenharia é o motor. IA é o piloto."*
+💡 *"Data is the fuel. Engineering is the engine. AI is the driver."*
 
 ---
 
-## 🧠 Tecnologias & Ferramentas  
+## 🧠 Technologies & Tools  
 
-#### 💻 Linguagens  
+#### 💻 Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 
-#### 📦 Bibliotecas e Frameworks  
+#### 📦 Libraries & Frameworks  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
@@ -32,7 +32,7 @@ Tenho 19 anos e aprendo de forma prática — desenvolvendo projetos, testando i
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
-#### ⚙️ Ferramentas  
+#### ⚙️ Tools  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -41,27 +41,27 @@ Tenho 19 anos e aprendo de forma prática — desenvolvendo projetos, testando i
 
 ---
 
-## 📈 Estatísticas do GitHub  
+## 📈 GitHub Stats  
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=omarcelodev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=omarcelodev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en"
     height="175"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarcelodev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarcelodev&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=6"
     height="175"
   />
 </p>
 
 ---
 
-## 🎯 Objetivos Atuais  
-- 📊 Criar pipelines ETL com Python e SQL  
-- ☁️ Aprender sobre Cloud (AWS / GCP)  
-- 🤖 Aprimorar conhecimentos em Machine Learning  
-- 📚 Construir portfólio focado em Engenharia de Dados  
+## 🎯 Current Goals  
+- 📊 Build ETL pipelines with Python and SQL  
+- ☁️ Learn basics of Cloud (AWS / GCP)  
+- 🤖 Improve skills in Machine Learning  
+- 📚 Build a portfolio focused on Data Engineering  
 
 ---
 
-⭐ *Explorando o universo de dados e IA — um commit por vez.*
+⭐ *Exploring the universe of data and AI — one commit at a time.*
