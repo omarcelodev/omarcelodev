@@ -1,30 +1,40 @@
 # 🧑🏻‍💻 Marcelo Gomes  
 
-**`Software Engineering Student at UniGoiás`**  
+**Software Engineering Student | Data Engineering & AI Focus**  
 
-📍 Goiânia - GO | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelogomss) | [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:marcelogomesfilho3@gmail.com)
+📍 Goiânia - GO  
+[LinkedIn](https://www.linkedin.com/in/marcelogomss) • marcelogomesfilho3@gmail.com  
 
 ---
 
 ## 🚀 About Me  
-I am passionate about **data and artificial intelligence**, and I am currently building my path as an **aspiring Data Engineer**.  
-I aim to combine **Python, SQL, and Machine Learning** to turn data into actionable and intelligent solutions.  
 
-I am 19 years old and learn best through practice — developing projects, testing ideas, and creating solutions that connect **engineering, automation, and AI**.
+I build data-driven solutions using **Python, SQL, and Machine Learning**.
 
-💡 *"Data is the fuel. Engineering is the engine. AI is the driver."*
+My focus is on designing structured and scalable systems that transform raw data into reliable and intelligent insights. I am especially interested in **ETL pipelines, automation, and applied AI systems**.
+
+I believe the future of technology lies at the intersection of **engineering discipline, automation, and artificial intelligence**.
+
+---
+
+## 🛠️ What I'm Building  
+
+- 📊 ETL pipelines using Python and SQL  
+- 🧹 Data cleaning and analysis workflows  
+- 🤖 Machine Learning experiments and model evaluation  
+- 🔌 API-based data services with Flask and FastAPI  
 
 ---
 
 ## 🧠 Technologies & Tools  
 
-#### 💻 Languages  
+### 💻 Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 
-#### 📦 Libraries & Frameworks  
+### 📦 Libraries & Frameworks  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
@@ -33,7 +43,7 @@ I am 19 years old and learn best through practice — developing projects, testi
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
-#### ⚙️ Tools  
+### ⚙️ Tools  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -42,27 +52,13 @@ I am 19 years old and learn best through practice — developing projects, testi
 
 ---
 
-## 📈 GitHub Stats  
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=omarcelodev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en"
-    height="175"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarcelodev&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=6"
-    height="175"
-  />
-</p>
-
----
-
 ## 🎯 Current Goals  
-- 📊 Build ETL pipelines with Python and SQL  
-- ☁️ Learn basics of Cloud (AWS / GCP)  
-- 🤖 Improve skills in Machine Learning  
-- 📚 Build a portfolio focused on Data Engineering  
+
+- 📊 Build production-ready ETL pipelines  
+- ☁️ Learn Cloud fundamentals (AWS / GCP)  
+- 🤖 Improve Machine Learning and model deployment skills  
+- 📚 Build a strong portfolio focused on Data Engineering  
 
 ---
 
-⭐ *Exploring the universe of data and AI — one commit at a time.*
+⭐ Exploring data and AI — one commit at a time.
