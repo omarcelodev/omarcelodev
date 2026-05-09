@@ -26,7 +26,7 @@ Hoje consolido minha base em `fullstack` desenvolvendo um sistema de agendamento
 
 <div align="left">
 
-<h3 align="left"> 
+<h3 align="center"> 
   <img src="https://img.icons8.com/?size=100&id=98957&format=png&color=FFFFFF" width="18"/> 
   Um Pouco Mais Sobre Mim
 </h3> 
@@ -39,55 +39,3 @@ Hoje consolido minha base em `fullstack` desenvolvendo um sistema de agendamento
 ⬜ Sempre buscando aprender algo novo e aplicar na prática<br>
 ⬛ Gosto de fotografia e cinema<br>
 
-
-<div align = "center">
-  
-<a href="mailto:marcelogomesfilho3@gmail.com@gmail.com">
-   <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="50"/>
-</a>
-
-<a href="https://www.linkedin.com/in/marcelogomss/">
- <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="55"/>
-</a>
-
-<a href="https://open.spotify.com/user/6algsr30o2m5i82hnlqonxevj">
-  <img src="https://img.icons8.com/?size=100&id=WqbHQ1d7sdKN&format=png&color=000000" width="50"/>
-</a>
-
-</div>
-
-<br clear="left"/> 
-
-</div>
-
-<br clear="left"/> 
-
-<div>
-
-<h3> 
-  <img src="https://img.icons8.com/?size=100&id=98957&format=png&color=FFFFFF" width="18"/> 
- Minhas Stacks
-</h3> 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width = "100" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width = "100"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width = "100"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width = "100"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width = "100"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width = "100"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width = "100"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width = "100"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width = "100"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width = "100"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width = "100"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width = "100"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width = "100"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width = "100" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/putty/putty-original.svg" width = "100"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width = "100"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width = "100"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width = "100"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width = "100"/>
-          
-          
-</div>
