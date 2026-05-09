@@ -27,22 +27,22 @@ Hoje consolido minha base em `fullstack` desenvolvendo um sistema de agendamento
 
 <h3 align="center"> <img src="https://img.icons8.com/?size=100&id=98957&format=png&color=FFFFFF" width="18"/> Um Pouco Mais Sobre Mim</h3> 
 
-<img src="Bullet Black.png" width="18"/>Gosto muito de música, toco guitarra nas horas vagas e curto bastante Rock, MPB e Neo-Soul<br>
-<img src="Bullet White.png" width="15"/>Atualmente explorando filosofia como hobby<br>
-<img src="Bullet Black.png" width="18"/>Fã de jogos e séries — especialmente Game of Thrones e Brooklyn 99<br>
-<img src="Bullet White.png" width="15"/>Sempre buscando aprender algo novo e aplicar na prática<br>
-<img src="Bullet Black.png" width="18"/>Gosto de fotografia e cinema<br>
+<img src="Bullet Black.png" width="18"/> Gosto muito de música, toco guitarra nas horas vagas e curto bastante Rock, MPB e Neo-Soul<br>
+<img src="Bullet White.png" width="17"/> Atualmente explorando filosofia como hobby<br>
+<img src="Bullet Black.png" width="18"/> Fã de jogos e séries — especialmente Game of Thrones e Brooklyn 99<br>
+<img src="Bullet White.png" width="17"/> Sempre buscando aprender algo novo e aplicar na prática<br>
+<img src="Bullet Black.png" width="18"/> Gosto de fotografia e cinema<br>
 
 
-<a href="mailto:SEUEMAIL@gmail.com">
+<a href="mailto:marcelogomesfilho3@gmail.com@gmail.com">
    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="50"/>
 </a>
 
-<a href="https://linkedin.com/in/SEULINK">
+<a href="https://www.linkedin.com/in/marcelogomss/">
  <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="55"/>
 </a>
 
-<a href="https://open.spotify.com/user/SEUSPOTIFY">
+<a href="https://open.spotify.com/user/6algsr30o2m5i82hnlqonxevj">
   <img src="https://img.icons8.com/?size=100&id=WqbHQ1d7sdKN&format=png&color=000000" width="50"/>
 </a>
 
