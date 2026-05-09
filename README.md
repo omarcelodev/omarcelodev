@@ -25,17 +25,13 @@ Hoje consolido minha base em `fullstack` desenvolvendo um sistema de agendamento
 
 <div align="left">
 
-<h3 align="center">Um Pouco Mais Sobre Mim</h3> 
+<h3 align="center"> <img src="https://img.icons8.com/?size=100&id=98957&format=png&color=FFFFFF" width="18"/> Um Pouco Mais Sobre Mim</h3> 
 
-<img src="Bullet Black.png" width="18"/>Gosto muito de música, toco guitarra nas horas vagas e curto bastante Rock, MPB e Neo-Soul
-
-<img src="Bullet White.png" width="15"/>Atualmente explorando filosofia como hobby
-
-<img src="Bullet Black.png" width="18"/>Fã de jogos e séries — especialmente Game of Thrones e Brooklyn 99
-
-<img src="Bullet White.png" width="15"/>Sempre buscando aprender algo novo e aplicar na prática
-
-<img src="Bullet Black.png" width="18"/>Gosto de fotografia e cinema
+<img src="Bullet Black.png" width="18"/>Gosto muito de música, toco guitarra nas horas vagas e curto bastante Rock, MPB e Neo-Soul<br>
+<img src="Bullet White.png" width="15"/>Atualmente explorando filosofia como hobby<br>
+<img src="Bullet Black.png" width="18"/>Fã de jogos e séries — especialmente Game of Thrones e Brooklyn 99<br>
+<img src="Bullet White.png" width="15"/>Sempre buscando aprender algo novo e aplicar na prática<br>
+<img src="Bullet Black.png" width="18"/>Gosto de fotografia e cinema<br>
 
 
 <a href="mailto:SEUEMAIL@gmail.com">
