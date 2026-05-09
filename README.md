@@ -25,7 +25,7 @@ Hoje consolido minha base em `fullstack` desenvolvendo um sistema de agendamento
 
 
 <div align="left">
-
+   <img align="right" src="assets/Pokemon.gif" width="350"/>
 <h3 align="center"> 
   <img src="https://img.icons8.com/?size=100&id=98957&format=png&color=FFFFFF" width="18"/> 
   Um Pouco Mais Sobre Mim
