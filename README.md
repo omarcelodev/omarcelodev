@@ -59,7 +59,7 @@ Hoje consolido minha base em `fullstack` desenvolvendo um sistema de agendamento
   <h3 align="center">
     <img src="assets/github-white.svg" width="18"/> 
     Github status</h3>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=omarcelodev&theme=dark" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=omarcelodev&theme=holi-theme" alt="GitHub Streak" /></a>
 </div>
 
 <div align="center">
