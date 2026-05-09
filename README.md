@@ -25,7 +25,7 @@ Hoje consolido minha base em `fullstack` desenvolvendo um sistema de agendamento
 
 
 <div align="left">
-    <img align="right" src="assets/Pokemon2.gif" width="250"/>
+    <img align="right" src="assets/Pokemon2.gif" width="200"/>
   
 <h3 align="center"> 
   <img src="https://img.icons8.com/?size=100&id=98957&format=png&color=FFFFFF" width="18"/> 
@@ -54,4 +54,7 @@ Hoje consolido minha base em `fullstack` desenvolvendo um sistema de agendamento
   
 </div>
 
-<br clear="left"/>
+<div align="center">
+  <h3 align="center">Github status</h3>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=omarcelodev&theme=dark" alt="GitHub Streak" /></a>
+</div>
