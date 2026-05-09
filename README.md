@@ -11,7 +11,7 @@
 </p>
 
 <div align="left">
-  <img align="left" src="Hollow Knight.gif" width="400"/>
+  <img align="left" src="Hollow Knight.gif" width="350"/>
 
 <h3 align="center">Quem Sou Eu?</h3>
 
