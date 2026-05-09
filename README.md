@@ -31,11 +31,25 @@ Hoje consolido minha base em `fullstack` desenvolvendo um sistema de agendamento
   Um Pouco Mais Sobre Mim
 </h3> 
 
-<img align="right" src="Eddard Stark.png" width="250"/>
-
 ⬛ Gosto muito de música e curto bastante Rock, MPB e Neo-Soul<br>
 ⬜ Atualmente explorando filosofia como hobby<br>
 ⬛ Fã de jogos e séries — especialmente Game of Thrones e Brooklyn 99<br>
 ⬜ Sempre buscando aprender algo novo e aplicar na prática<br>
 ⬛ Gosto de fotografia e cinema<br>
+
+<div align = "center">
+  
+  <a href="mailto:marcelogomesfilho3@gmail.com">
+    <img src="assets/gmail.svg" width="50"/>
+  </a>
+
+  <a href="https://linkedin.com/in/marcelogomss">
+    <img src="assets/linkedin.svg" width="50">
+  </a>
+
+  <a href="https://open.spotify.com/user/6algsr30o2m5i82hnlqonxevj">
+    <img src="https://img.icons8.com/?size=100&id=WqbHQ1d7sdKN&format=png&color=000000" width="50">
+  </a>
+  
+</div>
 
