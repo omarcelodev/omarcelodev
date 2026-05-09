@@ -39,6 +39,9 @@ Hoje consolido minha base em `fullstack` desenvolvendo um sistema de agendamento
 <img src="Bullet White.png" width="17"/> Sempre buscando aprender algo novo e aplicar na prática<br>
 <img src="Bullet Black.png" width="18"/> Gosto de fotografia e cinema<br>
 
+
+<div align = "center">
+  
 <a href="mailto:marcelogomesfilho3@gmail.com@gmail.com">
    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="50"/>
 </a>
@@ -50,6 +53,8 @@ Hoje consolido minha base em `fullstack` desenvolvendo um sistema de agendamento
 <a href="https://open.spotify.com/user/6algsr30o2m5i82hnlqonxevj">
   <img src="https://img.icons8.com/?size=100&id=WqbHQ1d7sdKN&format=png&color=000000" width="50"/>
 </a>
+
+</div>
 
 <br clear="left"/> 
 
