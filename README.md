@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Banner.png" width = "100%" alt="Banner Marcelo"/>
+</p>
+
 # 🧑🏻‍💻 Marcelo Gomes
 **Estudante de Engenharia de Software | Foco em Engenharia de Dados & IA**
 📍 Goiânia - GO
