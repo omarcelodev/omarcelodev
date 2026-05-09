@@ -21,3 +21,20 @@ Hoje consolido minha base em `fullstack` desenvolvendo um sistema de agendamento
 </div>
 
 <br clear="left"/>
+
+
+<div align="left">
+
+<h3 align="center">Um Pouco Mias Sobre Mim</h3> 
+
+<img src="assets/bullet.png" width="10"/>Gosto muito de música, toco guitarra nas horas vagas e curto bastante Rock, MPB e Neo-Soul
+
+<img src="assets/bullet.png" width="10"/>Atualmente explorando filosofia como hobby
+
+<img src="assets/bullet.png" width="10"/>Fã de jogos e séries — especialmente Game of Thrones e Brooklyn 99
+
+<img src="assets/bullet.png" width="10"/>Sempre buscando aprender algo novo e aplicar na prática
+
+<br clear="left"/> 
+
+
