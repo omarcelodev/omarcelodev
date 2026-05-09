@@ -2,6 +2,14 @@
   <img src="Marcelo.png" width = "100%" alt="Banner Marcelo"/>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=omarcelodev&color=000000&style=for-the-badge&base=1000"/>
+  
+  <img src="https://img.shields.io/github/stars/omarcelodev?color=000000&labelColor=FFFFFF&style=for-the-badge&logo=github&logoColor=black"/>
+  
+  <img src="https://img.shields.io/github/followers/omarcelodev?color=000000&style=for-the-badge"/>
+</p>
+
 # 🧑🏻‍💻 Marcelo Gomes
 **Estudante de Engenharia de Software | Foco em Engenharia de Dados & IA**
 📍 Goiânia - GO
