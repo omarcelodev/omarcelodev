@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Marcelo.png" width = "85%" alt="Banner Marcelo"/>
+  <img src="Marcelo.png" width = "100%" alt="Banner Marcelo"/>
 </p>
 
 # 🧑🏻‍💻 Marcelo Gomes
