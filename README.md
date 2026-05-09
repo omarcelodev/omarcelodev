@@ -10,6 +10,10 @@
   <img src="https://img.shields.io/github/followers/omarcelodev?color=000000&style=for-the-badge"/>
 </p>
 
+<p align="left">
+  <img src="Hollow Knight.gif" width="300"/>
+</p>
+
 # 🧑🏻‍💻 Marcelo Gomes
 **Estudante de Engenharia de Software | Foco em Engenharia de Dados & IA**
 📍 Goiânia - GO
