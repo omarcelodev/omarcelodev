@@ -56,12 +56,16 @@ Hoje consolido minha base em `fullstack` desenvolvendo um sistema de agendamento
 <br clear="left"/>
 
 <div align="center">
-  <h3 align="center">Github status</h3>
+  <h3 align="center">
+    <img src="assets/github-white.svg" width="18"/> 
+    Github status</h3>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=omarcelodev&theme=dark" alt="GitHub Streak" /></a>
 </div>
 
 <div align="center">
-  <h3 align="center">Minhas Stacks</h3>
+  <h3 align="center">
+     <img src="assets/stack-white.svg" width="18"/> 
+    Minhas Stacks</h3>
 
   <p align="center">
   <a href="https://skillicons.dev">
