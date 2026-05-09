@@ -11,7 +11,7 @@
 </p>
 
 <div align="left">
-  <img align="left" src="Hollow Knight.gif" width="350"/>
+  <img align="left" src="Hollow Knight.gif" width="300"/>
 
 <h3 align="center">Quem Sou Eu?</h3>
 
@@ -54,3 +54,4 @@ Hoje consolido minha base em `fullstack` desenvolvendo um sistema de agendamento
   
 </div>
 
+<br clear="left"/>
